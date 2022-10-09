@@ -473,10 +473,11 @@ footer.sticky-bottom {
     }
   }
   h2.year {
-    color: var(--global-divider-color);
-    border-top: 1px solid var(--global-divider-color);
-    padding-top: 1rem;
-    margin-top: 2rem;
+    // color: var(--global-divider-color);
+    color: white;
+    border-top: 0px solid var(--global-divider-color);
+    padding-top: 0rem;
+    margin-top: 0rem;
     margin-bottom: -2rem;
     text-align: right;
   }

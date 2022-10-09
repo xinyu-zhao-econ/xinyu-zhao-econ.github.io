@@ -1,12 +1,19 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 nav_order: 5
 ---
+I have been the teaching assistant for the following courses at Johns Hopkins University:
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+- Game Theory (PhD), Spring 2020, 2021 and 2022
 
-Organize your courses by years, topics, or universities, however you like!
+- General Equilibrium Theory (PhD), Fall 2018
+
+- Consumer and Producer Theory (PhD), Fall 2018
+
+- Game Theory (Undergraduate), Fall 2019, 2020 and 2021 
+
+- Elements of Microeconomics (Undergraduate), Spring 2019
